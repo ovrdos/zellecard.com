@@ -1,6 +1,7 @@
 # zellecard.com
 zellecard.com
 
+``` bash
 whois zellecard.com
 
 Registry Tech ID: 
@@ -18,4 +19,4 @@ Tech Fax Ext:
 Tech Email: evermint@nisr.com
 Name Server: NS67.WORLDNIC.COM
 Name Server: NS68.WORLDNIC.COM
-
+```
