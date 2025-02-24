@@ -16,7 +16,7 @@ Tech Phone: +1.8189177289
 Tech Phone Ext: 
 Tech Fax: 
 Tech Fax Ext: 
-Tech Email: evermint@nisr.com
+Tech Email: admin@zellecard.com
 Name Server: NS67.WORLDNIC.COM
 Name Server: NS68.WORLDNIC.COM
 ```
